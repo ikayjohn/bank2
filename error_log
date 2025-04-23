@@ -1,0 +1,70 @@
+[10-Apr-2024 04:22:22 America/New_York] PHP Notice:  Undefined index: login in /home/beacgndl/stalon.beacontraders.net/pin.php on line 49
+[10-Apr-2024 04:22:22 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[10-Apr-2024 04:22:22 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[10-Apr-2024 04:22:22 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 54
+[12-Apr-2024 02:22:52 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 16
+[12-Apr-2024 02:22:52 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 20
+[12-Apr-2024 02:22:52 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 02:22:52 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 02:22:52 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 29
+[12-Apr-2024 02:22:52 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'internetid' cannot be null in /home/beacgndl/stalon.beacontraders.net/lockscreen.php:30
+Stack trace:
+#0 /home/beacgndl/stalon.beacontraders.net/lockscreen.php(30): PDOStatement->execute()
+#1 {main}
+  thrown in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 30
+[12-Apr-2024 02:22:59 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 16
+[12-Apr-2024 02:22:59 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 20
+[12-Apr-2024 02:22:59 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 02:22:59 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 02:22:59 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 29
+[12-Apr-2024 02:22:59 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'internetid' cannot be null in /home/beacgndl/stalon.beacontraders.net/lockscreen.php:30
+Stack trace:
+#0 /home/beacgndl/stalon.beacontraders.net/lockscreen.php(30): PDOStatement->execute()
+#1 {main}
+  thrown in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 30
+[12-Apr-2024 02:31:52 America/New_York] PHP Warning:  Undefined array key "login" in /home/beacgndl/stalon.beacontraders.net/pin.php on line 49
+[12-Apr-2024 02:31:52 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[12-Apr-2024 02:31:52 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[12-Apr-2024 02:31:52 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 54
+[12-Apr-2024 08:07:08 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 16
+[12-Apr-2024 08:07:08 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 20
+[12-Apr-2024 08:07:08 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 08:07:08 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 08:07:08 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 29
+[12-Apr-2024 08:07:08 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'internetid' cannot be null in /home/beacgndl/stalon.beacontraders.net/lockscreen.php:30
+Stack trace:
+#0 /home/beacgndl/stalon.beacontraders.net/lockscreen.php(30): PDOStatement->execute()
+#1 {main}
+  thrown in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 30
+[12-Apr-2024 12:49:55 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 16
+[12-Apr-2024 12:49:55 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 20
+[12-Apr-2024 12:49:55 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 12:49:55 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 12:49:55 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 29
+[12-Apr-2024 12:49:55 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'internetid' cannot be null in /home/beacgndl/stalon.beacontraders.net/lockscreen.php:30
+Stack trace:
+#0 /home/beacgndl/stalon.beacontraders.net/lockscreen.php(30): PDOStatement->execute()
+#1 {main}
+  thrown in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 30
+[12-Apr-2024 12:50:04 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 16
+[12-Apr-2024 12:50:04 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 20
+[12-Apr-2024 12:50:04 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 12:50:04 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 21
+[12-Apr-2024 12:50:04 America/New_York] PHP Warning:  Undefined array key "internetid" in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 29
+[12-Apr-2024 12:50:04 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'internetid' cannot be null in /home/beacgndl/stalon.beacontraders.net/lockscreen.php:30
+Stack trace:
+#0 /home/beacgndl/stalon.beacontraders.net/lockscreen.php(30): PDOStatement->execute()
+#1 {main}
+  thrown in /home/beacgndl/stalon.beacontraders.net/lockscreen.php on line 30
+[12-Apr-2024 23:21:45 America/New_York] PHP Warning:  Undefined array key "login" in /home/beacgndl/stalon.beacontraders.net/pin.php on line 49
+[12-Apr-2024 23:21:45 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[12-Apr-2024 23:21:45 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[12-Apr-2024 23:21:45 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 54
+[13-Apr-2024 06:55:24 America/New_York] PHP Warning:  Undefined array key "login" in /home/beacgndl/stalon.beacontraders.net/pin.php on line 49
+[13-Apr-2024 06:55:24 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[13-Apr-2024 06:55:24 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[13-Apr-2024 06:55:24 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 54
+[13-Apr-2024 16:22:41 America/New_York] PHP Notice:  Undefined index: login in /home/beacgndl/stalon.beacontraders.net/pin.php on line 49
+[13-Apr-2024 16:22:41 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[13-Apr-2024 16:22:41 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 53
+[13-Apr-2024 16:22:41 America/New_York] PHP Notice:  Trying to access array offset on value of type bool in /home/beacgndl/stalon.beacontraders.net/pin.php on line 54
